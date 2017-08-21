@@ -1,0 +1,25 @@
+.secondtable {   
+	margin-top: 45px;
+	font-family: Tahoma,Verdana,Segoe,sans-serif;
+	width:72%;
+	border: none;
+	border-collapse:collapse;
+	cellspacing="0"
+}
+
+.secondtr {
+	text-align:center;	
+	border: none;
+}
+
+.secondtable, .secondtd, .secondtr {
+    text-align: left;
+    border: none;
+}
+
+#secondtablecontainer {
+	width: 100%; 
+	margin: auto; 
+	border: none;
+}
+

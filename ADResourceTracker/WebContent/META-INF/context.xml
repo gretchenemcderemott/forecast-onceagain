@@ -1,0 +1,7 @@
+<Context>
+
+		<Resource name="jdbc/web_application_tracker"
+		auth="Container" type="javax.sql.DataSource" maxActive="20" maxIdle="5" maxWait="10000" 
+		username="mttpqwgj" password="Uu3urvOlJ_IF28ivjfiWeyT-1hB4fQG8" driverClassName="org.postgresql.Driver" 
+		url="jdbc:postgresql://pellefant.db.elephantsql.com:5432/mttpqwgj" />
+</Context>
